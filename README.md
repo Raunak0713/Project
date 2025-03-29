@@ -7,3 +7,6 @@
 - **Commit 2**
   - SetUp Convex Database
   - SetUp Clerk Authentication
+- **Commit 3**
+  - Setup Custom Authentication Routes
+  - Integrate Authentication with Database
